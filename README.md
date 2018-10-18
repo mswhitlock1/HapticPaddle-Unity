@@ -1,5 +1,6 @@
 # HapticPaddle-Unity
 [Video](https://vimeo.com/295884576)
+
 Using Serial Output from HapKit as input for Unity (built with Unity 2018.2.9f1)
 
 ## Getting Started
